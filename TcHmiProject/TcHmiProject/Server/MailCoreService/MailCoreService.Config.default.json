@@ -1,0 +1,7 @@
+{
+    "EnableSSL": false,
+    "Password": "",
+    "Port": 25,
+    "SMTPServer": "localhost",
+    "Username": ""
+}
